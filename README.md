@@ -1,3 +1,3 @@
 # CLASH ROYALE DEMO WEB SITE
 -----------------------------------
-Vist website link -> https://aquamarine-froyo-910a88.netlify.app/
+Vist website link -> https://sagnik81599.github.io/CR-Site/
